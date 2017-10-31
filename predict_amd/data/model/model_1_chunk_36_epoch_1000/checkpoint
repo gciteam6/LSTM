@@ -1,2 +1,0 @@
-model_checkpoint_path: "model_1_chunk_36_epoch_1000.ckpt"
-all_model_checkpoint_paths: "model_1_chunk_36_epoch_1000.ckpt"

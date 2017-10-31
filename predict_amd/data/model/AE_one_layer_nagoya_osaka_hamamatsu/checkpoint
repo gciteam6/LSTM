@@ -1,2 +1,0 @@
-model_checkpoint_path: "AE_one_layer_nagoya_osaka_hamamatsu.ckpt"
-all_model_checkpoint_paths: "AE_one_layer_nagoya_osaka_hamamatsu.ckpt"

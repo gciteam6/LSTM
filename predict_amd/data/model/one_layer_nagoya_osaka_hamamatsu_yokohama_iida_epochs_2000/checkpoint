@@ -1,2 +1,0 @@
-model_checkpoint_path: "one_layer_nagoya_osaka_hamamatsu_yokohama_iida_epochs_2000.ckpt"
-all_model_checkpoint_paths: "one_layer_nagoya_osaka_hamamatsu_yokohama_iida_epochs_2000.ckpt"

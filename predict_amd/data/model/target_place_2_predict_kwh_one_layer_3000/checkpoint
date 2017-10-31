@@ -1,2 +1,0 @@
-model_checkpoint_path: "target_place_2_predict_kwh_one_layer_3000.ckpt"
-all_model_checkpoint_paths: "target_place_2_predict_kwh_one_layer_3000.ckpt"

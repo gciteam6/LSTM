@@ -1,2 +1,0 @@
-model_checkpoint_path: "one_layer_predict_kwh_epochs_3000.ckpt"
-all_model_checkpoint_paths: "one_layer_predict_kwh_epochs_3000.ckpt"
